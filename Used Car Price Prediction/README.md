@@ -2,7 +2,7 @@
 The purpose of this project is to use machine learning algorithms and pipelines to predict used car prices. 
 
 ## About the Dataset
-The dataset was obtained from a Kaggle (https://www.kaggle.com/competitions/playground-series-s4e9/overview). It was a competition endoresed by Kaggle to allow their users to practice their machine learning skills. 
+The dataset was obtained from a Kaggle (https://www.kaggle.com/competitions/playground-series-s4e9/overview). It was a competition endorsed by Kaggle to allow their users to practice their machine learning skills. 
 
 
 ## License
