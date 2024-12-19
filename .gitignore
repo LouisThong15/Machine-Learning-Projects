@@ -1,2 +1,4 @@
 # Ignore specific large files
-'Relationship Status Classification'/profiles.csv
+/'Relationship Status Classification'/profiles.csv
+/'Anime Recommender System'/anime-dataset-2023.csv
+/'Anime Recommender System'/user-score-2023.csv
